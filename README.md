@@ -28,6 +28,14 @@ The results of the project are as follows:
 * The most popular song is "War Pigs".
 * The average price of an album is $1.
 * The most popular country for music purchases is the United States.
+## Database Schema Overview
+
+The database contains the following main tables:
+
+* Customer, Invoice, InvoiceLine: For customer purchase and billing info
+* Track, Album, Artist, Genre, MediaType: For music metadata
+* Employee: Support representatives and organizational hierarchy
+* Playlist, PlaylistTrack: User-generated playlists
 
 ## Conclusion
 
