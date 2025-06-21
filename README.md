@@ -1,4 +1,4 @@
-# SQL Project: Music Store Analysis
+# Music Store Analysis using SQL
 
 ## Description
 
